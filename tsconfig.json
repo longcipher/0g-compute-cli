@@ -25,5 +25,5 @@
     "noUnusedParameters": false,
     "noPropertyAccessFromIndexSignature": false
   },
-  "include": ["types/**/*.d.ts"]
+  "include": ["./node_modules/@0glabs/0g-serving-broker/types/**/*.d.ts"]
 }
